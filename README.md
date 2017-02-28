@@ -1,7 +1,7 @@
 # js-simple-grid
 Simple javascript task 
 
-##Challange: Create grid with users and actions
+##Challenge: Create grid with users and actions
 
 1) Create simple markup, but it should be pretty enough.
 ```
